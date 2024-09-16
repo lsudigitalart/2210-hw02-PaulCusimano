@@ -3,7 +3,7 @@ let img;
 
 // Load the image.
 function preload() {
-  img = loadImage('/images/lich_16.png');
+  img = loadImage('images/lich_16.png');
 }
 
 function setup() {
